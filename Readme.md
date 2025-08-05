@@ -53,5 +53,6 @@ Analizar datos de rendimiento y satisfacción laboral para identificar patrones 
 
 1. Clona este repositorio:
 
-```bash
-git clone https://github.com/tuusuario/nombre-del-repo.git
+
+
+git clone [https://github.com/mariannnnne/analisis-rendimiento-satisfaccion]
